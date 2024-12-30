@@ -1,4 +1,3 @@
-/* From Uiverse.io by Admin12121 */ 
 <div class="menu">
   <a href="#" class="link">
     <span class="link-icon">
@@ -176,7 +175,6 @@
   </a>
 </div>
 
-/* From Uiverse.io by Admin12121 */ 
 .menu {
   padding: 0.5rem;
   background-color: #fff;
