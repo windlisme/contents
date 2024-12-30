@@ -1,4 +1,3 @@
-/* From Uiverse.io by mrhyddenn */ 
 <div class="loader">
     <div class="snow">
         <span style="--i:11"></span>
@@ -28,7 +27,6 @@
 
 
 
-/* From Uiverse.io by mrhyddenn */ 
 .loader {
   position: relative;
   width: 110px;
